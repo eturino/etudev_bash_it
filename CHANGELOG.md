@@ -1,6 +1,10 @@
 etudev_bash_it CHANGELOG
 ========================
 
+0.1.1
+-----
+- [eturino] - Typos and dependencies
+
 0.1.0
 -----
-- [your_name] - Initial release of etudev_bash_it
+- [eturino] - Initial release of etudev_bash_it

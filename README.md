@@ -9,7 +9,11 @@ Requirements
 ------------
 
 #### packages
+- `sudo` - etudev_bash_it needs git to execute the clone and install for other users
 - `git` - etudev_bash_it needs git to get the bash-it code
+
+#### cookbooks
+- `git` - etudev_bash_it needs git to get the bash-it code, and will depend on the git cookbook
 
 Attributes
 ----------
