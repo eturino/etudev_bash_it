@@ -7,6 +7,9 @@
 # All rights reserved - Do Not Redistribute
 #
 
+#  depends on git cookbook
+include_recipe "git"
+
 users = node[:etudev_bash_it][:users].to_a.uniq
 
 repository = node[:etudev_bash_it][:repository]
